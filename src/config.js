@@ -1,6 +1,6 @@
 const config = {
   dev: {
-    postdir: "./content",
+    postsdir: "./content",
     outdir: "./public",
   },
 };
