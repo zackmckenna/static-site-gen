@@ -2,7 +2,9 @@
   "name": "static-site-gen",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": "node ./src/index.js",
+  "scripts": {
+    "build": "node ./src/index.js"
+  },
   "author": "Zack McKenna",
   "license": "MIT",
   "dependencies": {
